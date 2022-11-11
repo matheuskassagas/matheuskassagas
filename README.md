@@ -1,6 +1,6 @@
 ## Oi, eu sou Matheus Gigliotti Kassagas 
 
-### Dev e DevOps
+### Desenvolvedor e DevOps
 **Amo tecnologia!**
 
 <div align="center">
